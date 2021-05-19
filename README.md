@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danacesardesigns
 - 👀 I’m interested in kids' tech
 - 🌱 I’m currently learning HTML5 and CSS3, as well as MAMP, .php and Wordpress. 
-- 💞️ I’m looking to collaborate at the beginner's level on projects to do with kids' tech, veganism, vegetarianism, or cat rescue. 
+- 💞️ I’m looking to collaborate at the beginner's level on just about any project. 
 - 📫 I'm best reached through Slack.
 
 <!---
