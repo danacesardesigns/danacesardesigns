@@ -3,7 +3,7 @@
 - 👀 I’m interested in kids' tech
 - 🌱 I’m currently learning HTML5 and CSS3, as well as MAMP, PHP and Wordpress. 
 - 💞️ I’m looking to collaborate at the beginner's level on just about any project. 
-- 📫 I'm best reached through Slack.
+- 📫 I'm best reached through email - danacesar@gmail.com
 
 <!---
 danacesardesigns/danacesardesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
