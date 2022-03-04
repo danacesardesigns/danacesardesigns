@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danacesardesigns
-- I'm interested in real estate solutions
+- 👀 I'm interested in real estate solutions
 - 👀 I’m interested in kids' tech
 - 🌱 I’m currently learning HTML5 and CSS3, as well as MAMP, PHP and Wordpress. 
 - 💞️ I’m looking to collaborate at the beginner's level on just about any project. 
